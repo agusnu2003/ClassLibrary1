@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A328A6C-5573-497E-8C54-F1E1887259CB}|Api\\Api.csproj|c:\\users\\agusn\\source\\repos\\classlibrary1\\api\\controllers\\pelicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A328A6C-5573-497E-8C54-F1E1887259CB}|Api\\Api.csproj|solutionrelative:api\\controllers\\pelicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A328A6C-5573-497E-8C54-F1E1887259CB}|Api\\Api.csproj|c:\\users\\agusn\\source\\repos\\classlibrary1\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A328A6C-5573-497E-8C54-F1E1887259CB}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF1346-A671-4E26-AF34-E2AAF0E5AC0C}|App\\App.csproj|c:\\users\\agusn\\source\\repos\\classlibrary1\\app\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF1346-A671-4E26-AF34-E2AAF0E5AC0C}|App\\App.csproj|solutionrelative:app\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277C3BBB-AFAE-415C-B0FC-F5DA7C7EDB56}|Domain\\Domain.csproj|c:\\users\\agusn\\source\\repos\\classlibrary1\\domain\\ipelicularepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277C3BBB-AFAE-415C-B0FC-F5DA7C7EDB56}|Domain\\Domain.csproj|solutionrelative:domain\\ipelicularepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FDA8FD-99D4-4FA5-B94C-0CEFD887B21E}|Infra\\Infra.csproj|c:\\users\\agusn\\source\\repos\\classlibrary1\\infra\\pelicularepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FDA8FD-99D4-4FA5-B94C-0CEFD887B21E}|Infra\\Infra.csproj|solutionrelative:infra\\pelicularepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277C3BBB-AFAE-415C-B0FC-F5DA7C7EDB56}|Domain\\Domain.csproj|c:\\users\\agusn\\source\\repos\\classlibrary1\\domain\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277C3BBB-AFAE-415C-B0FC-F5DA7C7EDB56}|Domain\\Domain.csproj|solutionrelative:domain\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFF1346-A671-4E26-AF34-E2AAF0E5AC0C}|App\\App.csproj|c:\\users\\agusn\\source\\repos\\classlibrary1\\app\\peliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFF1346-A671-4E26-AF34-E2AAF0E5AC0C}|App\\App.csproj|solutionrelative:app\\peliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31C104D-3942-4E6C-B5A9-40CCB02B089F}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\agusn\\source\\repos\\classlibrary1\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31C104D-3942-4E6C-B5A9-40CCB02B089F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeliculaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\App\\PeliculaDTO.cs",
+              "RelativeDocumentMoniker": "App\\PeliculaDTO.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\App\\PeliculaDTO.cs",
+              "RelativeToolTip": "App\\PeliculaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T19:09:58.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeliController.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Api\\Controllers\\PeliController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PeliController.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Api\\Controllers\\PeliController.cs*",
+              "RelativeToolTip": "Api\\Controllers\\PeliController.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:46:16.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:44:30.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeliculaService.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\App\\PeliculaService.cs",
+              "RelativeDocumentMoniker": "App\\PeliculaService.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\App\\PeliculaService.cs*",
+              "RelativeToolTip": "App\\PeliculaService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:39:39.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliculaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Infra\\PeliculaRepo.cs",
+              "RelativeDocumentMoniker": "Infra\\PeliculaRepo.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Infra\\PeliculaRepo.cs*",
+              "RelativeToolTip": "Infra\\PeliculaRepo.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:35:40.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPeliculaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Domain\\IPeliculaRepo.cs",
+              "RelativeDocumentMoniker": "Domain\\IPeliculaRepo.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Domain\\IPeliculaRepo.cs*",
+              "RelativeToolTip": "Domain\\IPeliculaRepo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:33:25.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Domain\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Domain\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\Domain\\Pelicula.cs",
+              "RelativeToolTip": "Domain\\Pelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:31:47.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\ClassLibrary1\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:31:22.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

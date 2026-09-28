@@ -1,0 +1,15 @@
+C:\Users\agusn\source\repos\ClassLibrary1\App\bin\Debug\net8.0\App.deps.json
+C:\Users\agusn\source\repos\ClassLibrary1\App\bin\Debug\net8.0\App.dll
+C:\Users\agusn\source\repos\ClassLibrary1\App\bin\Debug\net8.0\App.pdb
+C:\Users\agusn\source\repos\ClassLibrary1\App\bin\Debug\net8.0\Domain.dll
+C:\Users\agusn\source\repos\ClassLibrary1\App\bin\Debug\net8.0\Domain.pdb
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\App.csproj.AssemblyReference.cache
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\App.AssemblyInfo.cs
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\App.csproj.Up2Date
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\App.dll
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\refint\App.dll
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\App.pdb
+C:\Users\agusn\source\repos\ClassLibrary1\App\obj\Debug\net8.0\ref\App.dll
